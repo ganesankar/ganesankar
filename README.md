@@ -28,7 +28,9 @@ I enjoys building things that live on the internet. I develop exceptional websit
 ### I'm here
 
 
-[![Website](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)](http://ganesan.xyz/) [![LinkedIn](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg)] (https://www.linkedin.com/in/ganesankar/?originalSubdomain=in)  [![Instagram](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/instagram.svg)](http://instagram.com/ganesankar) 
+[![Website](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)](http://ganesan.xyz/)
+[![LinkedIn](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg)](https://www.linkedin.com/in/ganesankar/) 
+[![Instagram](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/instagram.svg)](http://instagram.com/ganesankar) 
 
 ### I'm reachable
 
