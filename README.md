@@ -40,7 +40,7 @@
 
 
 
-[![website](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg =24x)](http://ganesan.xyz/)
+[(https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg =24x)](http://ganesan.xyz/)
 [![website](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg =24x)](https://www.linkedin.com/in/ganesankar/)
 [![website](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg =24x)](http://instagram.com/ganesankar)
 
