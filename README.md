@@ -27,10 +27,7 @@ I enjoys building things that live on the internet. I develop exceptional websit
 
 ### I'm here
 
-[:fa-facebook-official:](http://facebook.com/ganesankars ":fa-facebook-official:")
-[:fa-linkedin-square:](https://www.linkedin.com/in/ganesankar/ ":fa-linkedin-square:")
-[:fa-wordpress:](http://ganesan.xyz ":fa-wordpress:")
-[:fa-instagram:](http://instagram.com/ganesankar ":fa-instagram:")
+
 
 [![Website](https://img.icons8.com/windows/30/000000/wordpress.png)](http://ganesan.xyz/)
 [![LinkedIn](https://img.icons8.com/color/30/000000/linkedin.png)](https://www.linkedin.com/in/ganesankar/) 
