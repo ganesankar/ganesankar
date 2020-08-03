@@ -27,11 +27,8 @@ I enjoys building things that live on the internet. I develop exceptional websit
 
 ### I'm here
 
-[<img align="left" alt="ganesan.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ganesankar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ganesankar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
+[![Website](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)](http://ganesan.xyz/) [![LinkedIn](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg)](https://www.linkedin.com/in/ganesankar/?originalSubdomain=in)  [![Instagram](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/instagram.svg)](http://instagram.com/ganesankar) 
 
 ### I'm reachable
 
