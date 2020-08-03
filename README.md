@@ -28,8 +28,8 @@ I enjoys building things that live on the internet. I develop exceptional websit
 ### I'm here
 
 
-[![Website](https://img.icons8.com/windows/50/000000/wordpress.png)](http://ganesan.xyz/)
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ganesankar/) 
+[![Website](https://img.icons8.com/windows/30/000000/wordpress.png)](http://ganesan.xyz/)
+[![LinkedIn](https://img.icons8.com/color/30/000000/linkedin.png)](https://www.linkedin.com/in/ganesankar/) 
 [![Instagram](https://img.icons8.com/offices/30/000000/instagram-new.png)](http://instagram.com/ganesankar) 
 
 ### I'm reachable
