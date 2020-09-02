@@ -43,7 +43,7 @@
 <a href="https://linkedin.com/in/ganesankar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ganesankar" height="30" width="30" /></a>
 <a href="https://codesandbox.com/ganesankar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="ganesankar" height="30" width="30" /></a>
 <a href="https://fb.com/ganesankars" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ganesankars" height="30" width="30" /></a>
-<a href="https://instagram.com/ganesankars" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ganesankars" height="30" width="30" /></a>
+<a href="https://instagram.com/ganesankar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ganesankars" height="30" width="30" /></a>
 <a href="https://dribbble.com/ganesankar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="ganesankar" height="30" width="30" /></a>
 <a href="https://www.behance.net/ganesankar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="ganesankar" height="30" width="30" /></a>
 <a href="https://medium.com/@ganesankar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ganesankar" height="30" width="30" /></a>
