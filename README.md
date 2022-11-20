@@ -9,7 +9,7 @@
 
 ### :label: In Short
  
-- :house: Staying in  :india: Chennai.
+- :house: Staying in  🇨🇦: New Westminster.
 - :briefcase: Working at :office: Infosys 
 - :mortar_board: Graduated from  :school: Anna University 
 - :telescope: Researching nothing :stuck_out_tongue_winking_eye:
@@ -50,4 +50,4 @@
 ### :call_me_hand:  I'm reachable
 
 - :email: [ganesank@live.com](mailto:ganesank@live.com?subject=Hi )
-- :calling:[+91 994 373 2416](tel:=919943732416 )
+- :calling:[+1 236 999 1870](tel:=12369991870 )
