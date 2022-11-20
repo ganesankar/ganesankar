@@ -1,15 +1,16 @@
 
+
 # :wave: Hi there
-### :wink: I'm [Ganesan Karuppaiya](http://ganesan.dev), a User Experience Designer, Front-end Developer.
+### :wink: I'm [Ganesan Karuppaiya](http://ganesan.dev), a User Experience Designer, Full Stack Developer.
 
 ### :handshake: Intro
 
- - :man_dancing: I enjoys building things that live on the internet
- - :scissors: I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with ,efficient and modern backends.
+:man_dancing: I enjoys building things that live on the internet
+:scissors: I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with ,efficient and       modern backends.
 
 ### :label: In Short
  
-- :house: Staying in  🇨🇦: New Westminster.
+- :house: Staying in  :canada: New Westminster.
 - :briefcase: Working at :office: Infosys 
 - :mortar_board: Graduated from  :school: Anna University 
 - :telescope: Researching nothing :stuck_out_tongue_winking_eye:
