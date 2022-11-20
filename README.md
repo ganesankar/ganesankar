@@ -1,6 +1,6 @@
 
 # :wave: Hi there
-### :wink: I'm [Ganesan Karuppaiya](http://ganesan.xyz), a User Experience Designer, Front-end Developer.
+### :wink: I'm [Ganesan Karuppaiya](http://ganesan.dev), a User Experience Designer, Front-end Developer.
 
 ### :handshake: Intro
 
