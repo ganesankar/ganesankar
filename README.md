@@ -1,7 +1,7 @@
 
 
 # :wave: Hi there
-### :wink: I'm [Ganesan Karuppaiya](http://ganesan.dev), a User Experience Designer, Full Stack Developer.
+### :wink: I'm [Ganesan Karuppaiya](http://ganesan.dev), a Technology Lead, Full Stack Developer.
 
 ### :handshake: Intro
 
@@ -10,7 +10,7 @@
 
 ### :label: In Short
  
-- :house: Staying in  :canada: New Westminster.
+- :house: Staying in Chennai India.
 - :briefcase: Working at :office: Infosys 
 - :mortar_board: Graduated from  :school: Anna University 
 - :telescope: Researching nothing :stuck_out_tongue_winking_eye:
