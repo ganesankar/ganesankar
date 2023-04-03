@@ -33,15 +33,11 @@
 ### :globe_with_meridians: I'm here
 
 
-
-<p>  
-<a href="https://twitter.com/ganesankar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ganesankar" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/ganesankar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ganesankar" height="30" width="30" /></a> 
-<a href="https://fb.com/ganesankars" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ganesankars" height="30" width="30" /></a>
-<a href="https://instagram.com/ganesankar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ganesankars" height="30" width="30" /></a> 
-<a href="https://www.behance.net/ganesankar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="ganesankar" height="30" width="30" /></a> 
-</p>
-
+- :twitter: [ganesankar](https://twitter.com/ganesankar )
+- :linkedin: [ganesankar](https://linkedin.com/in/ganesankar )
+- :facebook: [ganesankars](https://fb.com/ganesankars ))
+- :instagram: [ganesankar](https://instagram.com/ganesankar )
+ 
 
 ### :call_me_hand:  I'm reachable
 
