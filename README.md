@@ -35,7 +35,7 @@
 
 - :twitter: [ganesankar](https://twitter.com/ganesankar )
 - :linkedin: [ganesankar](https://linkedin.com/in/ganesankar )
-- :facebook: [ganesankars](https://fb.com/ganesankars ))
+- :facebook: [ganesankars](https://fb.com/ganesankars )
 - :instagram: [ganesankar](https://instagram.com/ganesankar )
  
 
