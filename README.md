@@ -33,10 +33,10 @@
 ### :globe_with_meridians: I'm here
 
 
-- :twitter: [ganesankar](https://twitter.com/ganesankar )
-- :linkedin: [ganesankar](https://linkedin.com/in/ganesankar )
-- :facebook: [ganesankars](https://fb.com/ganesankars )
-- :instagram: [ganesankar](https://instagram.com/ganesankar )
+- twitter: [ganesankar](https://twitter.com/ganesankar )
+- linkedin: [ganesankar](https://linkedin.com/in/ganesankar )
+- facebook: [ganesankars](https://fb.com/ganesankars )
+- instagram: [ganesankar](https://instagram.com/ganesankar )
  
 
 ### :call_me_hand:  I'm reachable
