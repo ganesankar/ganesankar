@@ -34,7 +34,7 @@
 
 
 
-<p align="center">  
+<p>  
 <a href="https://twitter.com/ganesankar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ganesankar" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/ganesankar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ganesankar" height="30" width="30" /></a> 
 <a href="https://fb.com/ganesankars" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ganesankars" height="30" width="30" /></a>
