@@ -22,23 +22,13 @@
 
 ### :construction_worker: I do
 
-
-- :art: **UX & BRAND DESIGNING** 
 - :triangular_ruler: **UI & UX DEVELOPMENT** 
 - :package: **PROGRESSIVE WEB APPLICATIONS** 
 
-
-
-
 ### :globe_with_meridians: I'm here
-
 
 - twitter: [ganesankar](https://twitter.com/ganesankar )
 - linkedin: [ganesankar](https://linkedin.com/in/ganesankar )
 - facebook: [ganesankars](https://fb.com/ganesankars )
 - instagram: [ganesankar](https://instagram.com/ganesankar )
  
-
-### :call_me_hand:  I'm reachable
-
-- :email: [ganesank@live.com](mailto:ganesank@live.com?subject=Hi )
