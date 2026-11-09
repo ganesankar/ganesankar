@@ -1,6 +1,6 @@
 # Hi there, I'm Ganesan 👋
 
-**Technology Lead · Full Stack Engineer · UI/UX Enthusiast**  
+**UI Lead Manager · Full Stack Engineer · UI/UX Enthusiast**  
 Building things that live on the internet — from pixel-perfect UIs to scalable backends.
 
 ---
